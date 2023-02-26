@@ -1,9 +1,9 @@
 ### Hi there 👋
-![MasterHead](https://camo.githubusercontent.com/7eb44783ce417ae7261fbcea3b9aa6a71a281326b36e62becd958a685e3b3ab0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966)
-<h1 align="center">Hi 👋, I'm Aditya Pawar</h1>
+
+<h1 align="center">I'm Aditya Pawar</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadpawar143&label=Profile%20views&color=0e75b6&style=flat" alt="adityadpawar143" /> </p>
 
