@@ -1,15 +1,15 @@
 ### Hi there 👋
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://camo.githubusercontent.com/7eb44783ce417ae7261fbcea3b9aa6a71a281326b36e62becd958a685e3b3ab0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3634302f312a6c684f617833635a4154475a774568473075545952412e676966)
 <h1 align="center">Hi 👋, I'm Aditya Pawar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 <img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadpawar143&label=Profile%20views&color=0e75b6&style=flat" alt="adityadpawar143" /> </p>
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **Frameworks of Java**
 
-- 💬 Ask me about **C, Java, HTML, CSS**
+- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, SQL**
 
 - 📫 How to reach me **adityadpawar143@gmail.com**
 
