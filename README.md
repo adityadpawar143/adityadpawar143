@@ -9,16 +9,16 @@
 
 - 🌱 I’m currently working as **Java Developer**
 
-- 💬 My skills **C, Java, HTML, CSS, JavaScript, Bootstrap, jQuery, SQL,      Spring Boot & Hibernate **
+- 💬 My skills **Java, HTML/CSS/Js, Bootstrap, jQuery, SQL, Spring Boot & Hibernate**
 
 - 📫 How to reach me **adityadpawar143@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Soft Skill **I am quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-pawar-5364a6205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-pawar-5364a6205" height="30" width="40" /></a>
-<a href="https://instagram.com/_flawless_adu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_flawless_adu" height="30" width="40" /></a>
+<a href="https://instagram.com/_flawless_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_flawless_adu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@adityapawar8944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aditya pawar" height="30" width="40" /></a>
 </p>
 
