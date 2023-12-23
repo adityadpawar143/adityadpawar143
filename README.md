@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadpawar143&label=Profile%20views&color=0e75b6&style=flat" alt="adityadpawar143" /> </p>
 
-- 🌱 I’m currently learning **Frameworks of Java**
+- 🌱 I’m currently working as **Java Developer**
 
-- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, SQL**
+- 💬 My skills **C, Java, HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, Spring Boot & Hibernate **
 
 - 📫 How to reach me **adityadpawar143@gmail.com**
 
