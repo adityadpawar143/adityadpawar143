@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as **Java Developer**
 
-- 💬 My skills **C, Java, HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, Spring Boot & Hibernate **
+- 💬 My skills **C, Java, HTML, CSS, JavaScript, Bootstrap, jQuery, SQL,      Spring Boot & Hibernate **
 
 - 📫 How to reach me **adityadpawar143@gmail.com**
 
